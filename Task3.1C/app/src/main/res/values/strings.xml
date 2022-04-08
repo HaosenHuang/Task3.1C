@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SIT305 Quiz App</string>
+    <string name="empty_string">""</string>
+    <!-- MAIN ACTIVITY STRINGS -->
+    <string name="enter_name_label">Enter your name:</string>
+    <string name="edit_text_name_hint">Enter your name</string>
+    <string name="start_button_label">START</string>
+    <!-- QUESTIONS ACTIVITY STRINGS -->
+    <string name="welcome_label">Welcome</string>
+    <string name="question_title_label">Question Title</string>
+    <string name="question_desc_label">Question Desc</string>
+    <string name="answer_one_label">Answer 1</string>
+    <string name="answer_two_label">Answer 2</string>
+    <string name="answer_three_label">Answer 3</string>
+    <string name="submit_button_label">Submit</string>
+    <string name="next_button_label">Next</string>
+    <string name="title_activity_result">Result</string>
+    <!-- RESULT ACTIVITY STRINGS -->
+    <string name="congratulations_label">Congratulations</string>
+    <string name="score_label">YOUR SCORE:</string>
+    <string name="new_button_label">Take New Quiz</string>
+    <string name="finish_button_label">FINISH</string>
+</resources>
